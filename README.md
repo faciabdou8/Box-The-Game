@@ -1,5 +1,5 @@
 # Box-The-Game
-#cool game
+# Cool game
 you can playing on your 32 and 64 bit pc
-#gameplay
+# gameplay
 moving boxs in spots
